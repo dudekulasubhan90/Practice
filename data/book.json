@@ -1,0 +1,23 @@
+{
+	"name": "Snowflake Fundamentals",
+	"author_first_name":"John",
+	"author_last_name":"Doe",
+	"pages":250,
+	"publication_years":[2012, 2014, 2015, 2018],
+	"languages":["English","French","German","Hindi"],
+	"publisher":
+		{"name":"Highland Publication Limited",
+		 "street":"2434 Senora Lane",
+		 "city":"Richmond",
+		 "state":"Virginia",
+		 "country":"US"
+		},
+	"contents":[
+		{"section":"Snowflake Architecture", "chapters":["Introduction","Architecture","Performance management"]},
+		{"section":"Access Management and Snowflake Objects", "chapters":["Roles","Hierarchy","Tables and Views","Stored Procedures"]},
+		{"section":"Data Movement 1", "chapters":["Data Loading","Data Unloading"]},
+		{"section":"Data Movement 2", "chapters":["Semi-Structured Data","SnowPipe"]},
+		{"section":"Dynamic Data Masking", "chapters":["Introduction","Best Practices"]},
+		{"section":"Data Sharing and Data Protection", "chapters":["Zero Copy Cloning","Tasks","Streams"]}
+	]
+}
